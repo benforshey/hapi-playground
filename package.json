@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ben Forshey",
-  "license": "CC-BY-NC-ND-4.0",
+  "license": "MIT",
   "dependencies": {
     "dotenv": "2.0.0",
     "googleapis": "14.2.0",
